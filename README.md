@@ -34,4 +34,4 @@
     }
 </script>
 ```
-You can flow this [Github page](https://gist.github.com/alfenfebral/4dc1f04ce1a779d62bbaa8292f751930)
+You can follow this [Github page](https://gist.github.com/alfenfebral/4dc1f04ce1a779d62bbaa8292f751930)
