@@ -1,6 +1,7 @@
 # Content-Delivery-Network-CDN-Collection
 
-**#For Adding Sweat Alert:**
+
+#For Adding Sweat Alert:
 
 **Adding into header part:**
 ```
